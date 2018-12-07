@@ -4,5 +4,18 @@
 @import "{{ site.theme }}";
 #header_wrap {
   background: initial;
-  background-color: green;
+  background-color: #38a434;
+  
+  a#forkme_banner {
+    background-size: 19px;
+    font-size: 0.8em;
+    padding: 5px 30px 5px 5px;
+    background-color: #ea1c24;
+  }
+}
+#main_content_wrap {
+  background-color: white;
+}
+#footer_wrap {
+  background-color: #ea1c24;
 }
