@@ -1,4 +1,4 @@
-## Introduzione
+## Sintesi delle mozioni dei candidati alla Segreteria Regionale (2018)
 
 Questo schema è stato redatto sulla base dei documenti messi a disposizione dai candidati alla Segreteria Regionale del Partito Democratico del Piemonte (2018 - http://www.pdpiemonte.it/2018/11/congresso-regionale-2018-i-candidati-e-le-loro-linee-politico-programmatiche/). Lo schema non sostituisce i documenti e va considerato solo come un tentativo di sintesi, realizzato principalmente a vantaggio di chi l'ha scritto, e condiviso con chiunque sia interessato, in particolare chi intende partecipare alle "Primarie" per la nomina del Segretario, che si svolgono il 16/12/2018.
 
